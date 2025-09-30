@@ -61,7 +61,9 @@ The installer handles:
 ### Option 1: Download Pre-compiled Binary (Recommended)
 
 
-**No Rust installation needed!** Just download and run:
+**No Rust installation needed!** 
+
+Just download and run:
 ```bash
 # Download the latest release
 wget https://github.com/bgibson72/hyprland-installer/releases/latest/download/hyprland-installer-x86_64-linux
