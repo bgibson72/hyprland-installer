@@ -54,7 +54,7 @@ The installer handles:
 **No Rust installation needed!** Just download and run:
 ```bash
 # Download the latest release
-wget https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/hyprland-installer-x86_64-linux
+wget https://github.com/bgibson72/hyprland-installer/releases/latest/download/hyprland-installer-x86_64-linux
 
 # Make it executable
 chmod +x hyprland-installer-x86_64-linux
