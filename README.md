@@ -5,15 +5,25 @@ A comprehensive, interactive Rust-based installer for setting up Hyprland on Arc
 ## Features
 
 ✨ **Interactive TUI** - Beautiful terminal-based user interface
+
 🧪 **Dry Run Mode** - Test the installer without making any changes to your system
-📦 **Smart Package Management** - Handles both official repos and AUR packages  
+
+📦 **Smart Package Management** - Handles both official repos and AUR packages
+
 🛠️ **AUR Helper Installation** - Automatically builds and installs yay or paru from source
-⚙️ **Auto-Configuration** - Automatically updates `hyprland.conf` with exec-once statements  
-🔧 **19 Configuration Steps** - Comprehensive coverage of all Hyprland components  
-🎯 **Skip Options** - Skip any step to configure manually later  
-💾 **Config Backup** - Automatically backs up existing configuration files  
-🔐 **Root Detection** - Properly handles permissions and file ownership  
-🗂️ **XDG User Directories** - Optionally creates standard user folders  
+
+⚙️ **Auto-Configuration** - Automatically updates `hyprland.conf` with exec-once statements
+
+🔧 **19 Configuration Steps** - Comprehensive coverage of all Hyprland components
+
+🎯 **Skip Options** - Skip any step to configure manually later
+
+💾 **Config Backup** - Automatically backs up existing configuration files
+
+🔐 **Root Detection** - Properly handles permissions and file ownership
+
+🗂️ **XDG User Directories** - Optionally creates standard user folders
+
 
 ## What Gets Configured
 
