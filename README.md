@@ -222,12 +222,6 @@ systemctl enable sddm.service
 systemctl start sddm.service
 ```
 
-**Don't forget to:**
-1. Replace `YOUR_USERNAME/YOUR_REPO` with your actual GitHub username and repository name
-2. Create a release on GitHub and upload your compiled binary as `hyprland-installer-x86_64-linux`
-3. Update the links once you know the actual repository URL
-
-
 ### Resources
 [Hyprland Wiki](https://wiki.hypr.land)
 
